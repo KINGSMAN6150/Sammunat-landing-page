@@ -40,6 +40,11 @@ Each section of the landing page is implemented as a **separate React component*
 - **Styling:** CSS
 - **Deployment:** Netlify
 
+## 🌐 Live Demo
+
+https://sammunat-landing-page-indol.vercel.app/
+
+
 ---
 
 ## ▶️ Running the Project Locally
