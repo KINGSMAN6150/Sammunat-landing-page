@@ -27,25 +27,6 @@ The goal of the project is to demonstrate a clear understanding of **React funda
 
 ---
 
-## 🗂 Project Structure
-
-sammunat-landing-page
-│
-├── src
-│ ├── components
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Features.jsx
-│ │ ├── About.jsx
-│ │ └── Footer.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-├── public
-├── package.json
-└── README.md
 
 
 Each section of the landing page is implemented as a **separate React component** to maintain clarity and reusability.
