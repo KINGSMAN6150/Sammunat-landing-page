@@ -32,33 +32,19 @@ The goal of the project is to demonstrate a clear understanding of **React funda
 sammunat-landing-page
 │
 ├── src
-
 │ ├── components
-
 │ │ ├── Navbar.jsx
-
 │ │ ├── Hero.jsx
-
 │ │ ├── Features.jsx
-
 │ │ ├── About.jsx
-
 │ │ └── Footer.jsx
-
 │ │
-
 │ ├── App.jsx
-
 │ ├── main.jsx
-
 │ └── index.css
-
 │
-
 ├── public
-
 ├── package.json
-
 └── README.md
 
 
