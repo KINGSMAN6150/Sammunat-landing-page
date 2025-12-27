@@ -29,22 +29,36 @@ The goal of the project is to demonstrate a clear understanding of **React funda
 
 ## 🗂 Project Structure
 
-sammunat-landing-page/
+sammunat-landing-page
 │
-├── src/
-│ ├── components/
+├── src
+
+│ ├── components
+
 │ │ ├── Navbar.jsx
+
 │ │ ├── Hero.jsx
+
 │ │ ├── Features.jsx
+
 │ │ ├── About.jsx
+
 │ │ └── Footer.jsx
+
 │ │
+
 │ ├── App.jsx
+
 │ ├── main.jsx
+
 │ └── index.css
+
 │
-├── public/
+
+├── public
+
 ├── package.json
+
 └── README.md
 
 
