@@ -1,16 +1,68 @@
-# React + Vite
+# Sammunat Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **responsive landing page built using React.js** as part of an internship assignment for **Sammunat**.  
+The goal of the project is to demonstrate a clear understanding of **React fundamentals**, clean component structure, basic styling, and deployment readiness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## React Compiler
+- Built with **React.js** using **Vite** for fast development
+- Component-based architecture
+- Clean and minimal UI design
+- Fully deployable as a static website
+- Designed to be simple, readable, and professional
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧱 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Reusable React components
+- Responsive layout
+- Clean navigation bar
+- Hero section with call-to-action
+- Features and About sections
+- Footer section
+- No unnecessary libraries or animations
+
+---
+
+## 🗂 Project Structure
+
+sammunat-landing-page/
+│
+├── src/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Features.jsx
+│ │ ├── About.jsx
+│ │ └── Footer.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── public/
+├── package.json
+└── README.md
+
+
+Each section of the landing page is implemented as a **separate React component** to maintain clarity and reusability.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js
+- **Build Tool:** Vite
+- **Styling:** CSS
+- **Deployment:** Netlify
+
+---
+
+## ▶️ Running the Project Locally
+
+```bash
+npm install
+npm run dev
